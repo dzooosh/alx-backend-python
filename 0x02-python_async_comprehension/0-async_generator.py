@@ -4,6 +4,7 @@ import random
 import asyncio
 import typing
 
+
 async def async_generator() -> typing.Generator[float,
                                                 None,
                                                 None]:
